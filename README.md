@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰 I’m currently working on<br><br>My master's thesis in Computer Engineering at the University of Minho.<br><br>👯 I’m looking to collaborate on<br><br>Projects related to Artificial Intelligence or Machine Learning.<br><br>🤝 I’m looking for help with<br><br>Exploring real-world applications of AI for my thesis.<br><br>🌱 I’m currently learning<br><br>Advanced topics in Artificial Intelligence, including neural networks and deep learning.<br><br>⚡ Fun fact<br><br>I’m really passionate about Artificial Intelligence!
+🛰 I’m currently working on<br><br>My master's thesis in Computer Engineering at the University of Minho.<br><br>👯 I’m looking to collaborate on<br><br>Projects related to Artificial Intelligence or Machine Learning.<br><br>🤝 I’m looking for help with<br><br>Exploring real-world applications of AI for my thesis.<br><br>
 
 
 ## 🌐 Socials:
